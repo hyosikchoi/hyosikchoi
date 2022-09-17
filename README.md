@@ -21,6 +21,7 @@
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-0094F5?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/>  
 
+<br/>
 
 ![wb_incandescent_black_18dp](https://user-images.githubusercontent.com/56852682/183002549-221b14f1-6b84-48b8-a943-5b06aa13fdd6.svg) Used as least once  
 
