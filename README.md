@@ -30,5 +30,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=Asana&logoColor=white"/>
 
 <br/>
+<br/>
 
 ![hyosikchoi's github stats](https://github-readme-stats.vercel.app/api?username=hyosikchoi&show_icons=true)
