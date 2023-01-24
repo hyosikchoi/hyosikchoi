@@ -32,4 +32,4 @@
 <br/>
 <br/>
 
-![hyosikchoi's github stats](https://github-readme-stats.vercel.app/api?username=hyosikchoi&show_icons=true&theme=radical)
+![hyosikchoi's github stats](https://github-readme-stats.vercel.app/api?username=hyosikchoi&show_icons=true&theme=highcontrast)
